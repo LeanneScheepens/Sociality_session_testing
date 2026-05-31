@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462543252373",
+    "firebase_url": "https://sociality-sessions-685f6-default-rtdb.firebaseio.com",
+    "project_id": "sociality-sessions-685f6",
+    "storage_bucket": "sociality-sessions-685f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462543252373:android:23c5aa2c13f6122cf9649c",
+        "android_client_info": {
+          "package_name": "com.example.sociality_session_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnPvxFclaIG0sn_sdKk3dTj0bv1LF_wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
